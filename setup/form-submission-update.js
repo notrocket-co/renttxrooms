@@ -2,7 +2,7 @@
 // Replace the current form submission logic with this code
 
 // Configuration - Replace with your Google Apps Script deployment URL
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwl8AT9W6BOCcl_JkP21rrX6BZRj3rPTWUsKH2rRnag676PshpVE6W1fbd5fJa5nukK/exec';
 
 // Updated form submission handler
 form.addEventListener('submit', async function(e) {
